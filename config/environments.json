@@ -1,0 +1,22 @@
+{
+    "acceptance": {
+        "name": "WorkSafety",
+        "identifier": "com.adp.talentx.safespace",
+        "url": "https://adpinnovation2-accp.mendixcloud.com"
+    },
+    "production": {
+        "name": "WorkSafety",
+        "identifier": "com.adp.talentx.safespace",
+        "url": "https://adpinnovation2.mendixcloud.com"
+    },
+    "test": {
+        "name": "WorkSafety",
+        "identifier": "com.adp.talentx.safespace",
+        "url": "https://adpinnovation2-test.mendixcloud.com"
+    },
+    "local": {
+        "name": "WorkSafetyLocal",
+        "identifier": "com.adp.talentx.safespace",
+        "url": "http://10.104.107.121:8080"
+    }
+}

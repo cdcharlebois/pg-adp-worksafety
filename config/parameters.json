@@ -1,0 +1,26 @@
+{
+    "url": "https://adpinnovation2-test.mendixcloud.com",
+    "identifier": "com.adp.talentx.safespace",
+    "version": "0.1.0",
+    "name": "WorkSafety",
+    "description": "Take charge of your personal safety at work.",
+    "iosEnabled": true,
+    "androidEnabled": true,
+    "requirePin": false,
+    "enableOffline": false,
+    "permissions": {
+        "calendar": true,
+        "camera": true,
+        "photoLibrary": true,
+        "contacts": true,
+        "microphone": true,
+        "geoLocation": true,
+        "push": true
+    },
+    "theme": {
+        "background": null,
+        "text": null,
+        "button": null,
+        "buttonCaption": null
+    }
+}
